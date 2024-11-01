@@ -50,22 +50,7 @@ With an all-new design that looks fresh and modern on macOS 11 Big Sur, Xcode 12
  <img width="550" alt="image" src="https://user-images.githubusercontent.com/32255348/231337100-87f6b665-4de0-4472-b820-ff9bbdceefe3.png">
 </p>
 
-## II. LEARNING OBJECTIVES
-What will you learn and what are the main objectives of this SwiftUI 2.0 project?
 
-- [x] How to set up a new iOS 14 project with the new SwiftUI App Life Cycle.
-- [x] How to develop a unique Onboarding screen
-- [x] How to use the new AppStorage in SwiftUI 2.0
-- [x] How to save and load data using UserDefaults
-- [x] How to create custom Views with SwiftUI
-- [x] How to retrieve local data using Structs in Swift 5.3
-- [x] How to display multiple Views automatically with ForEach loop
-- [x] How to use scroll view, horizontal view, vertical view containers
-- [x] How to create an outstanding Settings view
-- [x] How to add Icons to the App
-- [x] How to use the improved Canvas and Previews in Xcode 12
-- [x] How to test the iOS 14 app in Xcode Simulator
-- [x] Get familiar with the new Xcode 12
 
 ### ONBOARDING
 <p align="center">
