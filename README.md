@@ -92,22 +92,5 @@ You will get familiar with many new SwiftUi 2.0 views and features building this
 
 As you can know by now, this course provides you excellent image assets with high-quality custom app icons as always. This will give you a real-life experience of how an app developer works with a professional app designer together. I'm sure that you will enjoy the process and you will be glad by looking at the finished application.
 
-## III. Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DHpEhQDNtdQ/0.jpg)](https://www.youtube.com/watch?v=DHpEhQDNtdQ&ab_channel=CredoAcademy)
-
-## IV. Requirements
-- Xcode 14 from Apple (free)
-- macOS 13 Ventura from Apple (free)
-- Willing to create awesome apps by following the instructor step by step
-- You do not need any other prior programming experience or knowledge
-- Macintosh computer
-
-## V. Credit
-<p align="center">
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/32255348/231326634-9f0d1f6e-60e8-497f-9805-0a019c34f5fe.png">
-</p>
-
-</br>
-
 <p align="center">All rights reserved © SwiftUI Masterclass 2023 - iOS App Development & Swift | Robert Petras</p>
 <p align="center">SwiftUI • iOS • macOS • watchOS • iPadOS Developer</p>
